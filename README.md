@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Banik (a.k.a. thegodfantom)</h1>
-<h3 align="center">a web developer who likes to build minimal, user-friendly and functional websites...</h3>
+<h3 align="center">A Web Developer who likes to build minimal, user-friendly and functional websites...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegodfantom&label=Profile%20views&color=0e75b6&style=flat" alt="thegodfantom" /> </p>
 
 - I’m currently learning **MERN stack**
 
-- My Portfolio: [thegodfantom.vercel.app](thegodfantom.vercel.app)
+- My Portfolio: [thegodfantom.com](thegodfantom.com)
 
-- 📫 Email: **thegodfantom@yahoo.com**
+- 📫 Email: **contact@thegodfantom.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
