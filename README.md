@@ -5,7 +5,7 @@
 
 - I’m currently learning **MERN stack**
 
-- My Portfolio: [thegodfantom.com](thegodfantom.com)
+- My Portfolio: <a href="thegodfantom.com">thegodfantom.com</a>
 
 - 📫 Email: **contact@thegodfantom.com**
 
